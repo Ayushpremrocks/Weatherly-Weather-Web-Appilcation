@@ -1,6 +1,6 @@
 'use strict';
 
-import { apiKey } from "./apiKey.js";
+import { apiKey } from "./apikey.js";
 
 export const fetchData = function (URL, callback) {
       fetch(`${URL}&appid=${apiKey}`)
