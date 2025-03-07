@@ -1,6 +1,8 @@
 # 🌦️ Weatherly - Real-Time Weather Forecast Web Application
 
 ![Screenshot of the model](assets/images/logo.jpg)
+
+
 Use **Weatherly** now!!: [Weatherly](https://weatherly-weather-web-appilcation.vercel.app/)
 
 ## 📝 Overview
@@ -19,9 +21,9 @@ Weatherly is a responsive web application that provides comprehensive weather in
 
 ## 🖼️ Screenshots
 
-![Screenshot of the model](assets\images\Screenshot 1.png)
+![Screenshot of the model](/assets/images/Screenshot%201.png)
 
-![Screenshot of the model](assets\images\Screenshot 2.png)
+![Screenshot of the model](/assets/images/Screenshot%202.png)
 
 ## 🛠️ Technologies Used
 - HTML5
