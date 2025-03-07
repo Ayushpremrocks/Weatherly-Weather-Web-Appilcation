@@ -1,7 +1,7 @@
 # 🌦️ Weatherly - Real-Time Weather Forecast Web Application
 
 <div align="center">
-  <img src="assets/images/logo.jpg" alt="Screenshot of the model" width="150px">
+  <img src="assets/images/logo.jpg" alt="Screenshot of the model" width="100px">
   <br>
   Use <strong>Weatherly</strong> now!!: 
   <a href="https://weatherly-weather-web-appilcation.vercel.app/">Weatherly</a>
