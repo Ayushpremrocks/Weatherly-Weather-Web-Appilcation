@@ -18,7 +18,9 @@ Weatherly is a responsive web application that provides comprehensive weather in
 - 🌍 Current location weather detection
 
 ## 🖼️ Screenshots
+
 ![Screenshot of the model](assets\images\Screenshot 1.png)
+
 ![Screenshot of the model](assets\images\Screenshot 2.png)
 
 ## 🛠️ Technologies Used
