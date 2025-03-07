@@ -1,9 +1,11 @@
 # 🌦️ Weatherly - Real-Time Weather Forecast Web Application
 
-![Screenshot of the model](assets/images/logo.jpg)
-
-
-Use **Weatherly** now!!: [Weatherly](https://weatherly-weather-web-appilcation.vercel.app/)
+<div align="center">
+  <img src="assets/images/logo.jpg" alt="Screenshot of the model">
+  <br>
+  Use <strong>Weatherly</strong> now!!: 
+  <a href="https://weatherly-weather-web-appilcation.vercel.app/">Weatherly</a>
+</div>
 
 ## 📝 Overview
 Weatherly is a responsive web application that provides comprehensive weather information for locations worldwide. Built with pure HTML, CSS, and JavaScript, it offers real-time weather data powered by OpenWeatherMap API.
@@ -95,8 +97,8 @@ weatherly/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-Distributed under the MIT License.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 Ayush Prem - [GitHub Profile](https://github.com/ayushpremrocks)
