@@ -3,7 +3,8 @@
 <div align="center">
   <img src="assets/images/logo.jpg" alt="Screenshot of the model" width="100px">
   <br>
-  Use <strong>Weatherly</strong> now!!: 
+  <br>
+  Use <strong>Weatherly</strong> now : 
   <a href="https://weatherly-weather-web-appilcation.vercel.app/">Weatherly</a>
 </div>
 
