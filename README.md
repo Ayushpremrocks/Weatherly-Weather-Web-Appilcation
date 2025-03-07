@@ -1,5 +1,8 @@
 # 🌦️ Weatherly - Real-Time Weather Forecast Web Application
 
+![Screenshot of the model](assets/images/logo.jpg)
+Use **Weatherly** now!!: [Weatherly](https://weatherly-weather-web-appilcation.vercel.app/)
+
 ## 📝 Overview
 Weatherly is a responsive web application that provides comprehensive weather information for locations worldwide. Built with pure HTML, CSS, and JavaScript, it offers real-time weather data powered by OpenWeatherMap API.
 
@@ -15,7 +18,8 @@ Weatherly is a responsive web application that provides comprehensive weather in
 - 🌍 Current location weather detection
 
 ## 🖼️ Screenshots
-[Placeholder for application screenshots]
+![Screenshot of the model](assets\images\Screenshot 1.png)
+![Screenshot of the model](assets\images\Screenshot 2.png)
 
 ## 🛠️ Technologies Used
 - HTML5
